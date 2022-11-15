@@ -2,4 +2,3 @@ Write some code.
 Write some more code.
 Write some code again.
 Added feature branch.
-Deleted and added feature branch again.
